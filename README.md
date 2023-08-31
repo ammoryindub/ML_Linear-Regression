@@ -7,7 +7,8 @@
 files are associated with 01-ML-Linear-Regression
 
 
-The 'Ecommerce Customers.csv' file is associated with Pandas Exercise 02.
+**'Ecommerce Customers.csv'**
+file is associated with 02-ML-Linear-Regression.
 
 
 The 'Ecommerce.csv' file is associated with Pandas Exercise 03
