@@ -15,7 +15,7 @@ file is associated with 02-ML-Linear-Regression.
 
 
 ### 01-ML-Linear-Regression
-- importing libraries
+- Data Acquisition
 
 - CSV file
 
