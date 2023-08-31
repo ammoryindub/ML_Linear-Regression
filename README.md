@@ -14,7 +14,7 @@ file is associated with 02-ML-Linear-Regression.
 
 
 
-### Pandas Exercise
+### 01-ML-Linear-Regression
 - importing libraries
 
 - CSV file
