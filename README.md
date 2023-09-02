@@ -17,7 +17,7 @@ file is associated with 02-ML-Linear-Regression.
 ### 01-ML-Linear-Regression
 - Data Acquisition
 
-- CSV file
+- Data Cleaning
 
 - Excel file
 
