@@ -19,6 +19,6 @@ file is associated with 02-ML-Linear-Regression.
 
 - Data Cleaning
 
-- Excel file
+- Build Modeling/Training
 
 - SQL "Optional"
