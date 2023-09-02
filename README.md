@@ -14,7 +14,7 @@ file is associated with 02-ML-Linear-Regression.
 
 
 
-#### 01-ML-Linear-Regression
+### 01-ML-Linear-Regression
 - Data Acquisition
 
 - Data Cleaning
@@ -27,4 +27,4 @@ file is associated with 02-ML-Linear-Regression.
 
 - Model Deployment
 
-#### 02-ML-Linear-Regression
+### 02-ML-Linear-Regression
