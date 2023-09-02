@@ -25,4 +25,4 @@ file is associated with 02-ML-Linear-Regression.
 
 - Prediction (if matched then)
 
-- model deployment
+- Model Deployment
