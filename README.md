@@ -21,4 +21,4 @@ file is associated with 02-ML-Linear-Regression.
 
 - Build Modeling/Training
 
-- SQL "Optional"
+- Data Testing
