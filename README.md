@@ -37,3 +37,5 @@ file is associated with 02-ML-Linear-Regression.
 - Training the Model
 
 - Predicting Test Data
+
+- Evaluating our Model
