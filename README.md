@@ -33,3 +33,5 @@ file is associated with 02-ML-Linear-Regression.
 - EDA
 
 - Training and Testing Data
+
+- Training the Model
