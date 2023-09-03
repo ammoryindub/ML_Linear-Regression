@@ -31,3 +31,5 @@ file is associated with 02-ML-Linear-Regression.
 - Data Acquisition
 
 - EDA
+
+- Training and Testing Data
