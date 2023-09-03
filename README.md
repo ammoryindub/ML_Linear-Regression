@@ -39,3 +39,5 @@ file is associated with 02-ML-Linear-Regression.
 - Predicting Test Data
 
 - Evaluating our Model
+
+- Residuals
