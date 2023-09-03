@@ -29,3 +29,5 @@ file is associated with 02-ML-Linear-Regression.
 
 ### 02-ML-Linear-Regression
 - Data Acquisition
+
+- EDA
